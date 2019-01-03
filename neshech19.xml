@@ -1,0 +1,26 @@
+<annotation>
+	<folder>neshech</folder>
+	<filename>neshech19.jpg</filename>
+	<path>C:\tensorflow1\neshech\neshech19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>890</width>
+		<height>780</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>root</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>691</ymin>
+			<xmax>345</xmax>
+			<ymax>751</ymax>
+		</bndbox>
+	</object>
+</annotation>

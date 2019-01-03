@@ -1,0 +1,26 @@
+<annotation>
+	<folder>neshech</folder>
+	<filename>neshech88.jpg</filename>
+	<path>C:\tensorflow1\neshech\neshech88.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>890</width>
+		<height>780</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>595</ymin>
+			<xmax>763</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

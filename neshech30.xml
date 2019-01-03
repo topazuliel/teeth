@@ -1,0 +1,26 @@
+<annotation>
+	<folder>neshech</folder>
+	<filename>neshech30.jpg</filename>
+	<path>C:\Users\Dr.linn\Desktop\התוכנה בשביל הפרוייקט\neshech\neshech30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>890</width>
+		<height>780</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>540</ymin>
+			<xmax>455</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+</annotation>
